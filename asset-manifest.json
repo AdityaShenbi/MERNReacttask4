@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MERNReacttask4/static/css/main.fb35d48d.css",
+    "main.js": "/MERNReacttask4/static/js/main.b2f40312.js",
+    "index.html": "/MERNReacttask4/index.html",
+    "main.fb35d48d.css.map": "/MERNReacttask4/static/css/main.fb35d48d.css.map",
+    "main.b2f40312.js.map": "/MERNReacttask4/static/js/main.b2f40312.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb35d48d.css",
+    "static/js/main.b2f40312.js"
+  ]
+}
